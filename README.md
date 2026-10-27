@@ -1,6 +1,6 @@
 ﻿# dotnet8-pr-platform
 
-Final submission: tag v1.0.0, commit 0b742eb
+Final submission: tag v1.0.0 (use the tag to find the exact commit)
 
 Case study submission for a Head of DevOps and Analytics assessment.
 
@@ -101,3 +101,4 @@ The source workbook is not in the repo. Place it at data/source/dora_metrics.xls
 | #11 | Sync docs and Fabric code | Merged |
 | #12 | Power BI report and screenshot | Merged |
 | #14 | Non-required x86 build and test job | Merged |
+
