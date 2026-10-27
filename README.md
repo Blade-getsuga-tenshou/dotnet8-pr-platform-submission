@@ -1,6 +1,6 @@
-# dotnet8-pr-platform
+﻿# dotnet8-pr-platform
 
-Final submission: tag v1.0.0, commit 532a543
+Final submission: tag v1.0.0, commit 0b742eb
 
 Case study submission for a Head of DevOps and Analytics assessment.
 
@@ -10,7 +10,7 @@ Case study submission for a Head of DevOps and Analytics assessment.
 
 ## Links
 
-- Dashboard (GitHub Pages): https://blade-getsuga-tenshou.github.io/dotnet8-pr-platform/dashboard.html
+- Dashboard (GitHub Pages): https://blade-getsuga-tenshou.github.io/dotnet8-pr-platform-submission/dashboard.html
 - Data engineering: docs/data-engineering.md
 - AI Use Statement: docs/ai-use-statement.md
 - Governance and security: docs/governance.md, docs/security.md
